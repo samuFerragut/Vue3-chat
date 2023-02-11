@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "gruntfuggly.todo-tree",
+    "vue.volar",
+    "sdras.vue-vscode-snippets",
+    "moalamri.inline-fold",
+    "mikestead.dotenv"
+  ]
+}
